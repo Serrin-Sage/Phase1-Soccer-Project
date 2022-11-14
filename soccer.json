@@ -1,0 +1,49 @@
+{
+    "teams": [
+        {
+            "id": 1,
+            "name": "Bayern Munch",
+            "icon": "./images/BayernMunch.png",
+            "country": "Germany",
+            "flag": "./images/GermanyFlag.png",
+            "offense": 3.4,
+            "defense": 0.5
+        },
+        {
+            "id": 2,
+            "name": "Manchester City",
+            "icon": "./images/ManchesterCity.png",
+            "country": "England",
+            "flag": "./images/UK_Flag.png",
+            "offense": 2.9,
+            "defense": 0.4
+        },
+        {
+            "id": 3,
+            "name": "Barcelona",
+            "icon": "./images/Barcelona.png",
+            "country": "Spain",
+            "flag": "./images/Spain.png",
+            "offense": 2.7,
+            "defense": 0.4
+        },
+        {
+            "id": 4,
+            "name": "PSG",
+            "icon": "./images/PSG.png",
+            "country": "France",
+            "flag": "./images/FranceFlag.png",
+            "offense": 2.9,
+            "defense": 0.6
+        },
+        {
+            "id": 5,
+            "name": "Liverpool",
+            "icon": "./images/Liverpool.png",
+            "country": "England",
+            "flag": "./images/UK_Flag.png",
+            "offense": 2.8,
+            "defense": 0.6
+        }
+    ]
+}
